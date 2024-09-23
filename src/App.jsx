@@ -9,7 +9,7 @@ function App() {
     <>
       <Nav/>
       <Body/>
-      <Float/>
+      {/* <Float/> */}
       <Col/>
     </>
     )
